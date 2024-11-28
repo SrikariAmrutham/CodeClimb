@@ -1,6 +1,6 @@
 
-  // Question: Pascal's Triangle
-  // Description: Given an integer numRows, return the first numRows of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it.
+  # Question: Pascal's Triangle
+  # Description: Given an integer numRows, return the first numRows of Pascal's triangle. In Pascal's triangle, each number is the sum of the two numbers directly above it.
   
   def generate(numRows):
     triangle = []
